@@ -18,11 +18,10 @@ public class CuboMain {
 
         Cubo Cu = new Cubo (bas, alt, an);
         System.out.println("Base:" + Cu.getBase());
-        
         System.out.println("-------------------------------");
         System.out.println("altura:" + Cu.getAltura());
         System.out.println("-------------------------------");
-        System.out.println("ancho:" + Cu.getAncho());
+        System.out.println("ancho :" + Cu.getAncho());
         System.out.println("-------------------------------"); 
         System.out.println("Volumen del cubo:" + Cu.getVolumen());
         System.out.println("-------------------------------");
