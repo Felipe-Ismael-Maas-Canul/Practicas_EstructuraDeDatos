@@ -1,0 +1,27 @@
+package FelipeMaas;
+
+import java.util.Scanner;
+
+public class CuboMain {
+    
+    public static void main(String[] args) {
+        
+        Scanner entrada = new Scanner (System.in);
+        int bas, alt, an;
+
+        System.out.println("Base ");
+        bas = entrada.nextInt();
+        System.out.println("Altura ");
+        alt = entrada.nextInt();
+        System.out.println("Ancho ");
+        an = entrada.nextInt();
+
+        Cubo Cu = new Cubo (bas, alt, an);
+        System.out.println("Base:" + Cu.getBase());
+        System.out.println("altura:" + Cu.getAltura());
+        System.out.println("ancho:" + Cu.getAncho());
+        System.out.printf("Volumen del cubo:" + Cu.getVolumen());
+        System.out.printf("Area :" + Cu.getArea());
+        System.out.printf("Area total del cubo:" + Cu.getAreaTotal());
+    }
+}
