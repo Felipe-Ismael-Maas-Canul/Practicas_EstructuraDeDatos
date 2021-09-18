@@ -2,6 +2,7 @@ package FelipeMaas;
 
 public class Cubo {
 
+//Se declara los atributos en este caso son:
     private double base;
     private double altura;
     private double ancho;
@@ -21,6 +22,8 @@ public class Cubo {
         }
     }
     //Metodos 
+    //En estos primeros atributos se crean para mas despues
+    //poder asingar el valor de la base, altura y ancho
     public double getBase(){
         return this.base;
     }
@@ -33,6 +36,8 @@ public class Cubo {
         return this.ancho;
     }
 
+    //Y con estos 3 metodos mas se crean con una formula
+    //Que en este caso son volumen, Area y Area total
     public double getVolumen(){
         return (base * altura * ancho );
     }

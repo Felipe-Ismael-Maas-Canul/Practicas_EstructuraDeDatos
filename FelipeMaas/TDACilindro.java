@@ -1,5 +1,6 @@
 package FelipeMaas;
 
+//En esta parte le damos valor a los atributos en este caso cilindro
 public class TDACilindro {
     private double radio;
     private double altura;
@@ -18,6 +19,8 @@ public class TDACilindro {
 }
 
 //Metodos
+//Estos metodos a simple vistan usas formulas matematicas que ya se conocen
+//Como el buscar Area y bolumen, asi como el uso de PI
 public double getRadio(){
     return this.radio;
 }
