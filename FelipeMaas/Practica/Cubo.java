@@ -1,4 +1,4 @@
-package FelipeMaas;
+package FelipeMaas.Practica;
 
 public class Cubo {
 

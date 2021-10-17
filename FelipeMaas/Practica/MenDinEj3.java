@@ -1,4 +1,4 @@
-package FelipeMaas;
+package FelipeMaas.Practica;
 //Practica 2 - Ejercicio 3
 
 import java.util.ArrayList;
@@ -25,7 +25,7 @@ public class MenDinEj3 {
 
         MostrarListado(listado);
         //Mostramos los modificados
-        n = Integer.parseInt(JOptionPane .showInputDialog(null, "Que elementos vas a eliminar: ; "));
+        n = Integer.parseInt(JOptionPane .showInputDialog(null, "Que elementos vas a eliminar: "));
         listado.remove(n);
 
         MostrarListado(listado);

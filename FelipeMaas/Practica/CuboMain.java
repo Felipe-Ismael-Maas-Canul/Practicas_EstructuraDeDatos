@@ -1,4 +1,4 @@
-package FelipeMaas;
+package FelipeMaas.Practica;
 
 //Primero se importa los datos del cubo
 import java.util.Scanner;

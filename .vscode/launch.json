@@ -1,0 +1,104 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Practica_5_Lista",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Practica_5.Practica_5_Lista",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practica_4_Lista",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Practica_4.Practica_4_Lista",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursividad_4",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Practica_3.Recursividad_4",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursividad_3",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Practica_3.Recursividad_3",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursividad_1",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Practica_3.Recursividad_1",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "EricQuintal.Main",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch CuboMain",
+            "request": "launch",
+            "mainClass": "FelipeMaas.CuboMain",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MemEstEj1",
+            "request": "launch",
+            "mainClass": "FelipeMaas.MemEstEj1",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MemEstTemp",
+            "request": "launch",
+            "mainClass": "FelipeMaas.MemEstTemp",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MenDinEj3",
+            "request": "launch",
+            "mainClass": "FelipeMaas.MenDinEj3",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch TDACilindroMain",
+            "request": "launch",
+            "mainClass": "FelipeMaas.TDACilindroMain",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch estrcutura_Switch",
+            "request": "launch",
+            "mainClass": "estrcutura_Switch",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dado",
+            "request": "launch",
+            "mainClass": "FelipeIsmaelMaasCanul7264.Dado"
+        }
+    ]
+}

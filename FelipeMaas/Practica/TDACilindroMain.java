@@ -1,4 +1,4 @@
-package FelipeMaas;
+package FelipeMaas.Practica;
 
 //En esta parte del programa, lo primero es importar los datos
 //Del codigo anterior
