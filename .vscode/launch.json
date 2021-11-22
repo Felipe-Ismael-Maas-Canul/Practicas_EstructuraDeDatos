@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Shellsort",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Practica_8.Shellsort",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch BurbujaMain",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Practica_8.Burbuja.BurbujaMain",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Paso_5_Lista",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Lista.Paso_5_Lista",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Paso_3_Bicola",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Bicolas.Paso_3_Bicola",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
             "name": "Launch Practica_5_Lista",
             "request": "launch",
             "mainClass": "FelipeMaas.Practica_5.Practica_5_Lista",
