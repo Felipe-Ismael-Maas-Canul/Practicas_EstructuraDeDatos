@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IntercalacionMain",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Practica_8.Intercalacion.IntercalacionMain",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch RadixMain",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Practica_8.Radix.RadixMain",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuicksortMain",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Practica_8.Quicksort.QuicksortMain",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
             "name": "Launch Shellsort",
             "request": "launch",
             "mainClass": "FelipeMaas.Practica_8.Shellsort",

@@ -12,7 +12,7 @@ public class BurbujaMain {
 		try {
 			int numeros[];
 			do {
-				System.out.print("Ingresa el l�mite del arreglo: ");
+				System.out.print("Ingresa el limite del arreglo: ");
 				max= Integer.parseInt(entrada.readLine());
 			}while(max<4);
 			numeros = new int[max];

@@ -1,4 +1,4 @@
-package FelipeMaas.Practica_8;
+package FelipeMaas.Practica_8.Shellsort;
 
 import java.io.BufferedReader;
 import java.io.IOException;
