@@ -1,5 +1,9 @@
 package FelipeMaas.Practica_8.Shellsort;
 
+//Editar que se pueden ingresar los valores por teclado
+//Editar que no se vea igual
+//Arreglo de 20 numeros 
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

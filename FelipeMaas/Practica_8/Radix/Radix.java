@@ -1,5 +1,9 @@
 package FelipeMaas.Practica_8.Radix;
 
+//Editar que se pueden ingresar los valores por teclado
+//Editar que no se vea igual
+//Jopcion pane
+
 public class Radix {
 
         public void ordenarRadix(int [] arregloNum){

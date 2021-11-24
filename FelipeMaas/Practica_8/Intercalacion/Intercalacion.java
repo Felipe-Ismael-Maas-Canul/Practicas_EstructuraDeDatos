@@ -2,6 +2,9 @@ package FelipeMaas.Practica_8.Intercalacion;
 
     import java.util.Arrays;
 
+	//Editar que se pueden ingresar los valores por teclado
+	//editar que no se vea igual 
+
     public class Intercalacion {
 
 	int i,j,temporal;
