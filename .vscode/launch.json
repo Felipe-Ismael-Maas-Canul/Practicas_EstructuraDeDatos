@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch mezcla_Main",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Practica_8.mezcla_Directa.mezcla_Main",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch NaturalMain",
+            "request": "launch",
+            "mainClass": "FelipeMaas.Practica_8.Mezcla_Natural.NaturalMain",
+            "projectName": "Practicas_EstructuraDeDatos_635327f4"
+        },
+        {
+            "type": "java",
             "name": "Launch BinariaMain",
             "request": "launch",
             "mainClass": "FelipeMaas.Practica_9.BinariaMain",
